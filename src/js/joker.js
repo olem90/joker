@@ -1,3 +1,3 @@
-import joker from "give-me-a-joke";
+import "joker";
 
 joker.getRandomDadJoke(console.log);
