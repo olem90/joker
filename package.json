@@ -1,0 +1,22 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olem90/joker.git"
+  },
+  "keywords": [
+    "jokes"
+  ],
+  "author": "shipit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olem90/joker/issues"
+  },
+  "homepage": "https://github.com/olem90/joker#readme"
+}
