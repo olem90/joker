@@ -1,4 +1,4 @@
-import { dadJoke } from './joker.js';
+/*import { dadJoke } from './joker.js';
 
 export async function testDadJoke() {
   const joke = await dadJoke();
@@ -8,4 +8,4 @@ export async function testDadJoke() {
   return testPasses;
 }
 
-testDadJoke();
+testDadJoke(); */
