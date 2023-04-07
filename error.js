@@ -1,3 +1,3 @@
 console.log('Intentional Error');
 
-console.log('Intentional Formatting Error');
+console.log('   Intentional Formatting Error   ');
