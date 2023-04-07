@@ -11,5 +11,3 @@ export function dadJoke() {
     }
   });
 }
-
-console.log('Intentional Syntax Error');
